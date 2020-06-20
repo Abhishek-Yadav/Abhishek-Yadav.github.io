@@ -3,6 +3,8 @@
 # Name of website
 title: My website
 
+cover-img:"/assets/img/1.jpg"
+
 # Short description of your site
 description: A virtual proof that I'm awesome
 
@@ -17,7 +19,8 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
-cover-img:"/assets/img/1.jpg"
+
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
