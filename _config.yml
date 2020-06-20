@@ -3,7 +3,7 @@
 # Name of website
 title: My website
 
-cover-img:"/assets/img/1.jpg"
+cover-img: "/assets/img/1.jpg"
 
 # Short description of your site
 description: A virtual proof that I'm awesome
