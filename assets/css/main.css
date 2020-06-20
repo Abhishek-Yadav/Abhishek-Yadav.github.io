@@ -177,6 +177,10 @@ img {
   height: 2.5rem;
 }
 
+.navbar-brand-logo img {
+  height: 5.5rem;
+}
+
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .navbar-nav .nav-link:hover,
