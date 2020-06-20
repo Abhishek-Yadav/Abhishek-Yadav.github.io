@@ -174,7 +174,7 @@ img {
 .navbar-custom .navbar-brand-logo img,
 .navbar-custom.top-nav-short .navbar-brand-logo img,
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo img {
-  height: 8.5rem;
+  height: 3.5rem;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -235,7 +235,7 @@ img {
   }
 
   .navbar-custom .navbar-brand-logo img {
-    height: 3.125rem;
+    height: 8rem;
   }
 
   .navbar-expand-md .navbar-nav .nav-link {
