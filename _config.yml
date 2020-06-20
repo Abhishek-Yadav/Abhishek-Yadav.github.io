@@ -3,7 +3,6 @@
 # Name of website
 title: My website
 
-
 # Short description of your site
 description: A virtual proof that I'm awesome
 
@@ -18,7 +17,6 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
-
 
 # --- Logo --- #
 
