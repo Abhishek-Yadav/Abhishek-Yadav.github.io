@@ -10,9 +10,9 @@ author: Eleanor Constructions, XYC City, Mumbai 303020, India
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources: "index#projects"
-  Author's home: "https://google.com"
+  Services: "index#services"
+  Projects: "index#projects" 
+  Contact us: "index#contact"
 
 # --- Logo --- #
 
