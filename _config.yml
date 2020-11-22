@@ -11,7 +11,7 @@ author: Eleanor Constructions, XYC City, Mumbai 303020, India
 
 navbar-links:
   About Me: "aboutme"
-  Resources: "index"
+  Resources: "index#project"
   Author's home: "https://google.com"
 
 # --- Logo --- #
